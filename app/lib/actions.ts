@@ -80,7 +80,7 @@
 
 
 
-'use client';
+'use server';
  
 import { z } from 'zod';
 import { sql } from '@vercel/postgres';
